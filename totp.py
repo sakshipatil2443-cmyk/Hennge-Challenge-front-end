@@ -56,8 +56,8 @@ headers = {
 
 # Prepare the body
 body = {
-      "contact_email": userid,
-  "github_url": gistURL,
+      "contact_email": sakshipatil2443@gmail.com,
+  "github_url": https://gist.github.com/sakshipatil2443-cmyk/e9cfa541761bb2a58b106065fa71015b,
   "solution_framework": "react"
 }
 
